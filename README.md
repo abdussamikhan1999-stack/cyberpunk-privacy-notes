@@ -4,7 +4,10 @@ Notes distilled from a `/cyb/erpunk` general thread (4chan `/g/`-style), coverin
 cyberpunk culture/media, privacy tooling, anonymity networks, and security
 learning resources.
 
-See [LINKS.md](LINKS.md) for the full raw link list, organized by section.
+See [LINKS.md](LINKS.md) for the full raw link list, organized by section, and
+[ALT-CYBERPUNK-FAQ-SUMMARY.md](ALT-CYBERPUNK-FAQ-SUMMARY.md) for a full
+summary of the alt.cyberpunk FAQ (a ~15,900-word community document spanning
+1993-present).
 
 > "With software there are only two possibilities: either the users control
 > the program or the program controls the users." — Richard Stallman
@@ -105,9 +108,12 @@ See [LINKS.md](LINKS.md) for the full raw link list, organized by section.
 
 ## Inaccessible from here
 
-Two `archive.is` links (the FAQ and the "huge list of cyberpunk media") could
-not be fetched from this environment — `archive.is` blocks this tool's
-fetcher. They're still listed in LINKS.md; open them directly in a browser.
-Likewise the `mega.nz`/`mediafire` archive links (Cyberlife, Bibliothek, /sec/
-PDFs, other library) are compressed binary archives that can't be previewed
-via a text fetch — listed as-is for later.
+The FAQ link (`archive.is/mkDpa`) couldn't be auto-fetched from this
+environment — `archive.is` blocks this tool's fetcher — but its full text was
+pasted in manually and summarized; see
+[ALT-CYBERPUNK-FAQ-SUMMARY.md](ALT-CYBERPUNK-FAQ-SUMMARY.md). The "huge list
+of cyberpunk media" archive.is link is still unfetched — same block, no
+manual copy yet. The `mega.nz`/`mediafire` archive links (Cyberlife,
+Bibliothek, /sec/ PDFs, other library) are compressed binary archives that
+can't be previewed via a text fetch either way — listed as-is in LINKS.md for
+later.
